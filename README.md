@@ -1,0 +1,2 @@
+# EducationMutualAidManagementSystem
+教育互助管理系统
